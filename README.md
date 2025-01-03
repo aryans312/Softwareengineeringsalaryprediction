@@ -55,8 +55,10 @@ For a detailed view of the application's features, refer to the Project Screensh
 Contributors
 This project was developed by:
 
-Aryan Sharma (22ESKCX015)
+Aryan Sharma (22ESKCX015)  
+
 Dhruv Gupta (22ESKCX028)
+
 We extend our deepest thanks to Mr. Sumit Kumar, Assistant Professor, SKIT Jaipur, for his mentorship and insightful suggestions throughout the project.
 
 License
