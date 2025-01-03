@@ -46,9 +46,13 @@ Usage
 Navigate through the following sections of the dashboard for a comprehensive analysis:
 
 Home: Learn about the project and its features.
+
 Dashboard: Access dynamic visualizations for salary trends, company attributes, and geographical insights.
+
 Prediction: Input specific attributes to predict software engineering salaries.
-Login: Securely log in using your Google credentials for a personalized experience.
+
+Login: Securely log in using your Google credentials.
+
 Screenshots
 For a detailed view of the application's features, refer to the Project Screenshots.pptx file included in the repository. It showcases various dashboards and visualizations, including state-wise heatmaps and salary distributions.
 
